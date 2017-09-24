@@ -4,6 +4,9 @@ versions of the algorithms
 (2) Mean CCA
 (3) Cluster CCA
 
+The article can be found here 
+http://proceedings.mlr.press/v33/rasiwasia14.pdf
+
 I have done the implementations in two ways.
 Kindly please feel free to use the one which suits you the most.
 
